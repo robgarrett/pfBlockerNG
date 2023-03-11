@@ -1,0 +1,127 @@
+# This blocklist blocks the Tik Tok traffic
+#
+# Date: 11 March 2023 19:00:00 (UTC)
+# ===============================================================
+
+0.0.0.0 api-h2.tiktokv.com
+0.0.0.0 api-va.tiktokv.com
+0.0.0.0 api16-core-c-useast1a.tiktokv.com
+0.0.0.0 api16-core-c-useast2a.tiktokv.com
+0.0.0.0 api16-core-va.tiktokv.com
+0.0.0.0 api16-normal-c-useast1a.tiktokv.com
+0.0.0.0 api16-normal-c-useast2a.tiktokv.com
+0.0.0.0 api16-va.tiktokv.com
+0.0.0.0 api19-core-c-useast1a.tiktokv.com
+0.0.0.0 api19-core-c-useast2a.tiktokv.com
+0.0.0.0 api19-core-va.tiktokv.com
+0.0.0.0 api19-normal-c-useast1a.tiktokv.com
+0.0.0.0 api19-normal-c-useast2a.tiktokv.com
+0.0.0.0 api19-va.tiktokv.com
+0.0.0.0 dm16-useast1a.tiktokv.com
+0.0.0.0 dm16-useast2a.tiktokv.com
+0.0.0.0 gecko-va.tiktokv.com
+0.0.0.0 log-va.tiktokv.com
+0.0.0.0 mon-va.tiktokv.com
+0.0.0.0 mon.tiktokv.com
+0.0.0.0 tiktokv.com
+0.0.0.0 verification-va.tiktokv.com
+0.0.0.0 webcast-va.tiktokv.com
+0.0.0.0 xlog-va.tiktokv.com
+0.0.0.0 m.tiktok.com
+0.0.0.0 support.tiktok.com
+0.0.0.0 tiktok.com
+0.0.0.0 v.tiktok.com
+0.0.0.0 vm.tiktok.com
+0.0.0.0 www.tiktok.com
+0.0.0.0 lf16-geckocdn-sg.tiktokcdn.com
+0.0.0.0 p16-va.tiktokcdn.com
+0.0.0.0 pull-cmaf-f16.tiktokcdn.com
+0.0.0.0 pull-cmaf-f5.tiktokcdn.com
+0.0.0.0 pull-f5-ab.tiktokcdn.com
+0.0.0.0 pull-f5-ab.tiktokcdn.com.c.worldfcdn.com
+0.0.0.0 pull-f5.tiktokcdn.com
+0.0.0.0 pull-flv-f1-ab.tiktokcdn.com
+0.0.0.0 pull-flv-l1.tiktokcdn.com
+0.0.0.0 pull-flv-l1.tiktokcdn.com.wsdvs.com
+0.0.0.0 pull-flv-l11.tiktokcdn.com
+0.0.0.0 pull-hls-f1-ab.tiktokcdn.com
+0.0.0.0 pull-hls-f5-ab.tiktokcdn.com
+0.0.0.0 pull-hls-f5.tiktokcdn.com
+0.0.0.0 pull-hls-l1.tiktokcdn.com
+0.0.0.0 pull-hls-l1.tiktokcdn.com.wsdvs.com
+0.0.0.0 pull-hls-l11.tiktokcdn.com
+0.0.0.0 pull-hls-q5.tiktokcdn.com
+0.0.0.0 pull-hls-w5.tiktokcdn.com
+0.0.0.0 pull-q5.tiktokcdn.com
+0.0.0.0 pull-rtmp-f1-ab.tiktokcdn.com
+0.0.0.0 pull-rtmp-l1.tiktokcdn.com
+0.0.0.0 pull-rtmp-l1.tiktokcdn.com.wsdvs.com
+0.0.0.0 pull-rtmp-l11.tiktokcdn.com
+0.0.0.0 pull-w5.tiktokcdn.com
+0.0.0.0 pull-w5.tiktokcdn.com.c.worldfcdn.com
+0.0.0.0 s16.tiktokcdn.com
+0.0.0.0 sf16-webcast.tiktokcdn.com
+0.0.0.0 v16.tiktokcdn.com
+0.0.0.0 v16m.tiktokcdn.com
+0.0.0.0 v19.tiktokcdn.com
+0.0.0.0 v21.tiktokcdn.com
+0.0.0.0 api2-16-h2-eagle.musical.ly
+0.0.0.0 api2-16-h2.musical.ly
+0.0.0.0 api2-19-h2-eagle.musical.ly
+0.0.0.0 api2-19-h2.musical.ly
+0.0.0.0 api2.musical.ly
+0.0.0.0 app.musical.ly
+0.0.0.0 applog.musical.ly
+0.0.0.0 dm16.musical.ly
+0.0.0.0 jsb-va.musical.ly
+0.0.0.0 live.musical.ly
+0.0.0.0 m.musical.ly
+0.0.0.0 musical.ly
+0.0.0.0 v16.musical.ly
+0.0.0.0 verification-va.musical.ly
+0.0.0.0 webcast.musical.ly
+0.0.0.0 www.musical.ly
+0.0.0.0 xlog-va.musical.ly
+0.0.0.0 bytedance.com
+0.0.0.0 www.bytedance.com
+0.0.0.0 app.musemuse.cn
+0.0.0.0 musemuse.cn
+0.0.0.0 share.musemuse.cn
+0.0.0.0 mpak-suse1.muscdn.com
+0.0.0.0 mphw-suse1.muscdn.com
+0.0.0.0 muscdn.com
+0.0.0.0 p16-sg.muscdn.com
+0.0.0.0 p16.muscdn.com
+0.0.0.0 sf16-sg.muscdn.com
+0.0.0.0 sf16-webcast.muscdn.com
+0.0.0.0 v16.muscdn.com
+0.0.0.0 v19.muscdn.com
+0.0.0.0 v21.muscdn.com
+0.0.0.0 ibytedtos.com
+0.0.0.0 sf-hs-sg.ibytedtos.com
+0.0.0.0 sf-tb-sg.ibytedtos.com
+0.0.0.0 sf16-muse-va.ibytedtos.com
+0.0.0.0 p16-tiktok-sg.ibyteimg.com
+0.0.0.0 p16-tiktok-va.ibyteimg.com
+0.0.0.0 p16-va-tiktok.ibyteimg.com
+0.0.0.0 byteoversea.net
+0.0.0.0 quic-normal-lb-gcp.byteoversea.net
+0.0.0.0 security-lb-maliva.byteoversea.net
+0.0.0.0 api2-16-h2.musical.ly.edgekey.net
+0.0.0.0 bytedance.map.fastly.net
+0.0.0.0 musically-alternate.app.link
+0.0.0.0 musically.app.link
+0.0.0.0 p16-tiktokcdn-com.akamaized.net
+0.0.0.0 video.h1.bytedance.map.fastly.net
+
+# ===============================================================
+
+(^|\.)muscdn\.com$
+
+(^|\.)musical\.ly$
+
+(^|\.)tiktok\.com$
+
+(^|\.)tiktok\.org$
+
+(^|\.)tiktokcdn\.com$
